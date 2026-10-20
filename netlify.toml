@@ -3,13 +3,13 @@
   command = ""
 
 [[redirects]]
-  from = "/protect-mississippis-children"
-  to = "/"
+  from = "/nolan-wells.html"
+  to = "/nolan-wells/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/protect-mississippis-children.html"
+  from = "/protect-mississippis-children"
   to = "/"
   status = 301
   force = true
