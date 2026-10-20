@@ -1,3 +1,15 @@
 [build]
   publish = "."
   command = ""
+
+[[redirects]]
+  from = "/protect-mississippis-children"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/protect-mississippis-children.html"
+  to = "/"
+  status = 301
+  force = true
